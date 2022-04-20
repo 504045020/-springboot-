@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--查询所有员工信息-->
+<mapper namespace="com.cq.Mapper.EmpMapper">
+    <select id="selectAllEmp" resultType="com.cq.pojo.Emp">
+        select *from emp
+    </select>
+
+<!--根据工号查询员工信息-->
+    <select id="selectEmpByempno" resultType="emp">
+        select empno,ename,job,mgr,hiredate,sal,comm,deptno from emp where empno = #{empno}
+    </select>
+
+<!--添加员工信息-->
+    <insert id="insertEmp" parameterType="emp">
+        insert into emp values (,'','',,,)
+    </insert>
+
+</mapper>
+
+

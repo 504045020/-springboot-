@@ -1,0 +1,64 @@
+2022-04-20 10:34:35.479 [main] INFO  com.cq.Springboot03Application - Starting Springboot03Application using Java 1.8.0_211 on SD-20201010DBXI with PID 10640 (F:\IdeaProjects\SpringbootAll\springboot03\target\classes started by Administrator in F:\IdeaProjects\SpringbootAll)
+2022-04-20 10:34:35.482 [main] INFO  com.cq.Springboot03Application - No active profile set, falling back to default profiles: default
+2022-04-20 10:34:37.685 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-20 10:34:37.697 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-20 10:34:37.698 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-20 10:34:37.699 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2022-04-20 10:34:37.809 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/springboot03] - Initializing Spring embedded WebApplicationContext
+2022-04-20 10:34:37.809 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2230 ms
+2022-04-20 10:34:38.285 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-20 10:34:38.376 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2022-04-20 10:34:38.518 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-20 10:34:38.536 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/springboot03'
+2022-04-20 10:34:38.548 [main] INFO  com.cq.Springboot03Application - Started Springboot03Application in 3.781 seconds (JVM running for 5.697)
+2022-04-20 10:36:32.225 [main] INFO  com.cq.Springboot03Application - Starting Springboot03Application using Java 1.8.0_211 on SD-20201010DBXI with PID 16724 (F:\IdeaProjects\SpringbootAll\springboot03\target\classes started by Administrator in F:\IdeaProjects\SpringbootAll)
+2022-04-20 10:36:32.228 [main] INFO  com.cq.Springboot03Application - No active profile set, falling back to default profiles: default
+2022-04-20 10:36:34.042 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-20 10:36:34.051 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-20 10:36:34.051 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-20 10:36:34.052 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2022-04-20 10:36:34.137 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/springboot03] - Initializing Spring embedded WebApplicationContext
+2022-04-20 10:36:34.137 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1831 ms
+2022-04-20 10:36:34.615 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-20 10:36:34.700 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2022-04-20 10:36:34.830 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-20 10:36:34.848 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/springboot03'
+2022-04-20 10:36:34.855 [main] INFO  com.cq.Springboot03Application - Started Springboot03Application in 3.259 seconds (JVM running for 4.709)
+2022-04-20 10:50:15.982 [main] INFO  com.cq.Springboot03Application - Starting Springboot03Application using Java 1.8.0_211 on SD-20201010DBXI with PID 3164 (F:\IdeaProjects\SpringbootAll\springboot03\target\classes started by Administrator in F:\IdeaProjects\SpringbootAll)
+2022-04-20 10:50:16.000 [main] INFO  com.cq.Springboot03Application - No active profile set, falling back to default profiles: default
+2022-04-20 10:50:17.492 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-20 10:50:17.501 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-20 10:50:17.502 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-20 10:50:17.502 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2022-04-20 10:50:17.590 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/springboot03] - Initializing Spring embedded WebApplicationContext
+2022-04-20 10:50:17.590 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1495 ms
+2022-04-20 10:50:18.029 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-20 10:50:18.103 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2022-04-20 10:50:18.218 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-20 10:50:18.233 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/springboot03'
+2022-04-20 10:50:18.242 [main] INFO  com.cq.Springboot03Application - Started Springboot03Application in 2.911 seconds (JVM running for 4.785)
+2022-04-20 10:50:25.533 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/springboot03] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-20 10:50:25.534 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-20 10:50:25.535 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-20 10:50:25.576 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2022-04-20 10:50:25.692 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2022-04-20 11:03:54.041 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m5s383ms396µs900ns).
+2022-04-20 11:06:21.810 [main] INFO  com.cq.Springboot03Application - Starting Springboot03Application using Java 1.8.0_211 on SD-20201010DBXI with PID 12864 (F:\IdeaProjects\SpringbootAll\springboot03\target\classes started by Administrator in F:\IdeaProjects\SpringbootAll)
+2022-04-20 11:06:21.813 [main] INFO  com.cq.Springboot03Application - No active profile set, falling back to default profiles: default
+2022-04-20 11:06:23.111 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-20 11:06:23.120 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-20 11:06:23.121 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-20 11:06:23.121 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2022-04-20 11:06:23.206 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/springboot03] - Initializing Spring embedded WebApplicationContext
+2022-04-20 11:06:23.207 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1334 ms
+2022-04-20 11:06:23.525 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-20 11:06:23.576 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2022-04-20 11:06:23.688 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-20 11:06:23.702 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/springboot03'
+2022-04-20 11:06:23.711 [main] INFO  com.cq.Springboot03Application - Started Springboot03Application in 2.525 seconds (JVM running for 4.154)
+2022-04-20 11:06:29.791 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/springboot03] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-20 11:06:29.792 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-20 11:06:29.792 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2022-04-20 11:06:29.823 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2022-04-20 11:06:29.935 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2022-04-20 11:23:19.069 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m56s105ms124µs400ns).
