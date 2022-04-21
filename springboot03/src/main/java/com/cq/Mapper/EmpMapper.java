@@ -11,4 +11,6 @@ public interface EmpMapper {
     List<Emp> selectAllEmp();
 
     Emp selectEmpByempno(int empno);
+
+    Boolean removeEmp(Integer empno);
 }

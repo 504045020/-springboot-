@@ -11,4 +11,6 @@ public interface EmpService {
     Emp selectEmpByempno(int empno);
 
     PageInfo<Emp> findByPage(Integer pageNum, Integer pageSize);
+
+    Boolean removeEmpno(Integer empno);
 }

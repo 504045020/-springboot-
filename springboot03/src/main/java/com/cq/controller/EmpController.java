@@ -18,7 +18,6 @@ import java.util.List;
 public class EmpController {
 
 
-
     @Autowired
     private EmpService empService;
 
@@ -33,6 +32,8 @@ public class EmpController {
     public PageInfo<Emp> pageAllEmp(@PathVariable("pageNum")Integer pageNum, @PathVariable("pageSize")Integer pageSize){
         return empService.findByPage(pageNum,pageSize);
     }
+
+
 
     @RequestMapping("/empByempno")
     public Emp getEmpByEmpno(int empno){

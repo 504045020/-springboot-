@@ -48,5 +48,10 @@ public class EmpServiceImpl implements EmpService {
         return pi;
     }
 
+    @Override
+    public Boolean removeEmpno(Integer empno) {
+        return empMapper.removeEmp(empno);
+    }
+
 
 }
