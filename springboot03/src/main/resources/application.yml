@@ -1,7 +1,7 @@
 server:
   port: 8080
   servlet:
-    context-path: /springboot03
+    context-path: /springboot03-staitc-content
 #      上下文路径
 
 spring:
@@ -56,6 +56,8 @@ spring:
       login-password: 123456
 
 #      德鲁伊 SQL数据源地址
+
+
 mybatis:
   type-aliases-package: com.cq.pojo #  扫描实体类的路径
   mapper-locations: classpath:mybatis/*.xml # mapper映射路径

@@ -39,4 +39,9 @@ public class ThymeleafController {
 //    public String addEmp(){
 //        empService.addEmp(Emp emp);
 //    }
+
+    @RequestMapping("/")
+    public String welcome(){
+        return "welcome";
+    }
 }
